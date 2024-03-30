@@ -1,0 +1,3 @@
+SELECT now() AS 現在時間
+
+CREATE DATABASE test
